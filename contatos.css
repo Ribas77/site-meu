@@ -109,7 +109,7 @@ footer{
     width: 100%;
     background: rgb(19, 18, 75);
     position: absolute;
-    bottom: -20vh;
+    bottom: 0;
     justify-content: space-around;
     display: flex;
     align-items: center;
