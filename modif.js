@@ -1,7 +1,7 @@
 function insta() {
     let resp = confirm(`ATENÇÃO! Essa conta é meramente inventada para fins acadêmicos, sem nenhuma interação comercial.`)
      if(resp) {
-         window.location.href = "https://instagram.com/voe.brasil/";
+         window.location.href = "https://www.instagram.com/granbrasilvoos/";
      }
      else {
          
