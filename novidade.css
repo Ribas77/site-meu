@@ -31,7 +31,7 @@ a {
 
 body {
     margin: 0%;
-    background: url(airport-airplane-on-runway-vector-600nw-2521665201.webp) no-repeat;
+    background: url(..//img/airport-airplane-on-runway-vector-600nw-2521665201.webp) no-repeat;
     background-size: cover;
     justify-content: center;
     align-items: center;
@@ -116,6 +116,37 @@ footer {
     
 }
 
+h2 {
+
+    text-align: center;
+    background-color: aliceblue;
+    margin-top: 0;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgb(19, 18, 75)
+
+}
+
+.container4 {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    align-items: center;
+    width: 30%;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 24, 88);
+    transition: 300ms;
+    font-family: monospace;
+    font-weight: bold;
+}
+.Nos{
+    word-spacing: normal;
+}
+a:hover{
+    opacity: 0.7;
+    color: rgb(196, 248, 255);
+}
 h2 {
 
     text-align: center;
