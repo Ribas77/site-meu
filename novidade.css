@@ -1,3 +1,14 @@
+body {
+    margin: 0%;
+    background: url(airport-airplane-on-runway-vector-600nw-2521665201.webp) no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    box-sizing: border-box;
+    bottom: 8vh;
+
+}
 div {
     text-align: center;
 
@@ -29,17 +40,6 @@ a {
     font-weight: bold;
 }
 
-body {
-    margin: 0%;
-    background: url(airport-airplane-on-runway-vector-600nw-2521665201.webp) no-repeat;
-    background-size: cover;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-    box-sizing: border-box;
-    bottom: 8vh;
-
-}
 .container {
     display: flex;
     justify-content: center; /*centralizar cards*/
